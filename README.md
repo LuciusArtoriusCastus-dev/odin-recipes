@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a website that allows you to access three different recipes. I created links that connects different webpages between them, with a specific structure of page. I learned what type of lists to use depending on the situation, how to choose a correct size for an image and the importance of presentation
